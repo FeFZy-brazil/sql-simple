@@ -1,2 +1,3 @@
-# sql-simple
-Atividade SQL no Supabase, comandos simples e relacionamento de tabelas.
+# SQL simples
+> Status da atividade: Completo
+Atividade SQL no Supabase, comandos simples em uma tabela.
